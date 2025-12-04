@@ -20,6 +20,8 @@ We focus on features like **energy, danceability, valence, loudness**, and colla
 
 ---
 ## About Us
-We’re **Christos, Pati, Pedro, and Carmelina** – music lovers and data enthusiasts on a mission to decode Spotify hits. We analyze trends and musical features like **energy, danceability, valence, and loudness** to uncover what makes songs popular.
+We’re **Christos, Pati, Pedro, and Carmelina** – music lovers and data enthusiasts on a mission to decode Spotify hits. 
+We analyze trends and musical features like **energy, danceability, valence, and loudness** to uncover what makes songs popular.
 Our goal is to make music analytics accessible and insightful for **artists, producers, and fans**, turning data into stories that explain the hits.
-Fun fact: Every song has a story, and we’re here to tell it—numbers included!
+
+Fun fact 😆: Every song has a story, and we’re here to tell it—numbers included!
